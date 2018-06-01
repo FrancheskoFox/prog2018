@@ -1,0 +1,6 @@
+C:\Users\IPY\Downloads\Labu\laba2\laba2\bin\Debug\laba2.exe.config
+C:\Users\IPY\Downloads\Labu\laba2\laba2\bin\Debug\laba2.exe
+C:\Users\IPY\Downloads\Labu\laba2\laba2\bin\Debug\laba2.pdb
+C:\Users\IPY\Downloads\Labu\laba2\laba2\obj\Debug\laba2.csprojResolveAssemblyReference.cache
+C:\Users\IPY\Downloads\Labu\laba2\laba2\obj\Debug\laba2.exe
+C:\Users\IPY\Downloads\Labu\laba2\laba2\obj\Debug\laba2.pdb
